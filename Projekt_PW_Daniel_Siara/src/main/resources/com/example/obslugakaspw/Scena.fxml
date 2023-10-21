@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Text?>
+
+<?import java.util.ArrayList?>
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="678.0" prefWidth="1073.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.obslugakaspw.Controller">
+   <children>
+      <Circle fx:id="circle0" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle1" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle2" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle3" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle4" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle5" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle6" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle7" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle8" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle9" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle10" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle11" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle12" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle13" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle14" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle15" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle16" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle17" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle18" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle19" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle20" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle21" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle22" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle23" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle24" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle25" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle26" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle27" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle28" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle29" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle30" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle31" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle32" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle33" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle34" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle35" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle36" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle37" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle38" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle39" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle40" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle41" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle42" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle43" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle44" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle45" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle46" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle47" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle48" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle49" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle50" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle51" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle52" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle53" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle54" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle55" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle56" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle57" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle58" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle59" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle60" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle61" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle62" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle63" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle64" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle65" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle66" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle67" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle68" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle69" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle70" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle71" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle72" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle73" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle74" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle75" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle76" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle77" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle78" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle79" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle80" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle81" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle82" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle83" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle84" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle85" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle86" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle87" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle88" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle89" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle90" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle91" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle92" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle93" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle94" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle95" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle96" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle97" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle98" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle99" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle100" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle101" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle102" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle103" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle104" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle105" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle106" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle107" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle108" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle109" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle110" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle111" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle112" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle113" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle114" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle115" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle116" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle117" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle118" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle119" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle120" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle121" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle122" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle123" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle124" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle125" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle126" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle127" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle128" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle129" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle130" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle131" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle132" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle133" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle134" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle135" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle136" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle137" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle138" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle139" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle140" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle141" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle142" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle143" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle144" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle145" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle146" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle147" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle148" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle149" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle150" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle151" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle152" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle153" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle154" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle155" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle156" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle157" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle158" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle159" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle160" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle161" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle162" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle163" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle164" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle165" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle166" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle167" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle168" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle169" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle170" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle171" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle172" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle173" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle174" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle175" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle176" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle177" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle178" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle179" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle180" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle181" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle182" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle183" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle184" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle185" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle186" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle187" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle188" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle189" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle190" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle191" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle192" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle193" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle194" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle195" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle196" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle197" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle198" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle199" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="circle200" fill="#2185ff" layoutX="759.0" layoutY="58.0" radius="28.0" stroke="BLACK" strokeType="INSIDE" />
+      <fx:define>
+         <ArrayList fx:id="circleList">
+            <fx:reference source="circle0" />
+            <fx:reference source="circle1" />
+            <fx:reference source="circle2" />
+            <fx:reference source="circle3" />
+            <fx:reference source="circle4" />
+            <fx:reference source="circle5" />
+            <fx:reference source="circle6" />
+            <fx:reference source="circle7" />
+            <fx:reference source="circle8" />
+            <fx:reference source="circle9" />
+            <fx:reference source="circle10" />
+            <fx:reference source="circle11" />
+            <fx:reference source="circle12" />
+            <fx:reference source="circle13" />
+            <fx:reference source="circle14" />
+            <fx:reference source="circle15" />
+            <fx:reference source="circle16" />
+            <fx:reference source="circle17" />
+            <fx:reference source="circle18" />
+            <fx:reference source="circle19" />
+            <fx:reference source="circle20" />
+            <fx:reference source="circle21" />
+            <fx:reference source="circle22" />
+            <fx:reference source="circle23" />
+            <fx:reference source="circle24" />
+            <fx:reference source="circle25" />
+            <fx:reference source="circle26" />
+            <fx:reference source="circle27" />
+            <fx:reference source="circle28" />
+            <fx:reference source="circle29" />
+            <fx:reference source="circle30" />
+            <fx:reference source="circle31" />
+            <fx:reference source="circle32" />
+            <fx:reference source="circle33" />
+            <fx:reference source="circle34" />
+            <fx:reference source="circle35" />
+            <fx:reference source="circle36" />
+            <fx:reference source="circle37" />
+            <fx:reference source="circle38" />
+            <fx:reference source="circle39" />
+            <fx:reference source="circle40" />
+            <fx:reference source="circle41" />
+            <fx:reference source="circle42" />
+            <fx:reference source="circle43" />
+            <fx:reference source="circle44" />
+            <fx:reference source="circle45" />
+            <fx:reference source="circle46" />
+            <fx:reference source="circle47" />
+            <fx:reference source="circle48" />
+            <fx:reference source="circle49" />
+            <fx:reference source="circle50" />
+            <fx:reference source="circle51" />
+            <fx:reference source="circle52" />
+            <fx:reference source="circle53" />
+            <fx:reference source="circle54" />
+            <fx:reference source="circle55" />
+            <fx:reference source="circle56" />
+            <fx:reference source="circle57" />
+            <fx:reference source="circle58" />
+            <fx:reference source="circle59" />
+            <fx:reference source="circle60" />
+            <fx:reference source="circle61" />
+            <fx:reference source="circle62" />
+            <fx:reference source="circle63" />
+            <fx:reference source="circle64" />
+            <fx:reference source="circle65" />
+            <fx:reference source="circle66" />
+            <fx:reference source="circle67" />
+            <fx:reference source="circle68" />
+            <fx:reference source="circle69" />
+            <fx:reference source="circle70" />
+            <fx:reference source="circle71" />
+            <fx:reference source="circle72" />
+            <fx:reference source="circle73" />
+            <fx:reference source="circle74" />
+            <fx:reference source="circle75" />
+            <fx:reference source="circle76" />
+            <fx:reference source="circle77" />
+            <fx:reference source="circle78" />
+            <fx:reference source="circle79" />
+            <fx:reference source="circle80" />
+            <fx:reference source="circle81" />
+            <fx:reference source="circle82" />
+            <fx:reference source="circle83" />
+            <fx:reference source="circle84" />
+            <fx:reference source="circle85" />
+            <fx:reference source="circle86" />
+            <fx:reference source="circle87" />
+            <fx:reference source="circle88" />
+            <fx:reference source="circle89" />
+            <fx:reference source="circle90" />
+            <fx:reference source="circle91" />
+            <fx:reference source="circle92" />
+            <fx:reference source="circle93" />
+            <fx:reference source="circle94" />
+            <fx:reference source="circle95" />
+            <fx:reference source="circle96" />
+            <fx:reference source="circle97" />
+            <fx:reference source="circle98" />
+            <fx:reference source="circle99" />
+            <fx:reference source="circle101" />
+            <fx:reference source="circle102" />
+            <fx:reference source="circle103" />
+            <fx:reference source="circle104" />
+            <fx:reference source="circle105" />
+            <fx:reference source="circle106" />
+            <fx:reference source="circle107" />
+            <fx:reference source="circle108" />
+            <fx:reference source="circle109" />
+            <fx:reference source="circle110" />
+            <fx:reference source="circle111" />
+            <fx:reference source="circle112" />
+            <fx:reference source="circle113" />
+            <fx:reference source="circle114" />
+            <fx:reference source="circle115" />
+            <fx:reference source="circle116" />
+            <fx:reference source="circle117" />
+            <fx:reference source="circle118" />
+            <fx:reference source="circle119" />
+            <fx:reference source="circle120" />
+            <fx:reference source="circle121" />
+            <fx:reference source="circle122" />
+            <fx:reference source="circle123" />
+            <fx:reference source="circle124" />
+            <fx:reference source="circle125" />
+            <fx:reference source="circle126" />
+            <fx:reference source="circle127" />
+            <fx:reference source="circle128" />
+            <fx:reference source="circle129" />
+            <fx:reference source="circle130" />
+            <fx:reference source="circle131" />
+            <fx:reference source="circle132" />
+            <fx:reference source="circle133" />
+            <fx:reference source="circle134" />
+            <fx:reference source="circle135" />
+            <fx:reference source="circle136" />
+            <fx:reference source="circle137" />
+            <fx:reference source="circle138" />
+            <fx:reference source="circle139" />
+            <fx:reference source="circle140" />
+            <fx:reference source="circle141" />
+            <fx:reference source="circle142" />
+            <fx:reference source="circle143" />
+            <fx:reference source="circle144" />
+            <fx:reference source="circle145" />
+            <fx:reference source="circle146" />
+            <fx:reference source="circle147" />
+            <fx:reference source="circle148" />
+            <fx:reference source="circle149" />
+            <fx:reference source="circle150" />
+            <fx:reference source="circle151" />
+            <fx:reference source="circle152" />
+            <fx:reference source="circle153" />
+            <fx:reference source="circle154" />
+            <fx:reference source="circle155" />
+            <fx:reference source="circle156" />
+            <fx:reference source="circle157" />
+            <fx:reference source="circle158" />
+            <fx:reference source="circle159" />
+            <fx:reference source="circle160" />
+            <fx:reference source="circle161" />
+            <fx:reference source="circle162" />
+            <fx:reference source="circle163" />
+            <fx:reference source="circle164" />
+            <fx:reference source="circle165" />
+            <fx:reference source="circle166" />
+            <fx:reference source="circle167" />
+            <fx:reference source="circle168" />
+            <fx:reference source="circle169" />
+            <fx:reference source="circle170" />
+            <fx:reference source="circle171" />
+            <fx:reference source="circle172" />
+            <fx:reference source="circle173" />
+            <fx:reference source="circle174" />
+            <fx:reference source="circle175" />
+            <fx:reference source="circle176" />
+            <fx:reference source="circle177" />
+            <fx:reference source="circle178" />
+            <fx:reference source="circle179" />
+            <fx:reference source="circle180" />
+            <fx:reference source="circle181" />
+            <fx:reference source="circle182" />
+            <fx:reference source="circle183" />
+            <fx:reference source="circle184" />
+            <fx:reference source="circle185" />
+            <fx:reference source="circle186" />
+            <fx:reference source="circle187" />
+            <fx:reference source="circle188" />
+            <fx:reference source="circle189" />
+            <fx:reference source="circle190" />
+            <fx:reference source="circle191" />
+            <fx:reference source="circle192" />
+            <fx:reference source="circle193" />
+            <fx:reference source="circle194" />
+            <fx:reference source="circle195" />
+            <fx:reference source="circle196" />
+            <fx:reference source="circle197" />
+            <fx:reference source="circle198" />
+            <fx:reference source="circle199" />
+            <fx:reference source="circle200" />
+         </ArrayList>
+      </fx:define>
+      <Rectangle fx:id="cr0" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr1" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr2" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr3" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr4" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr5" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr6" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr7" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr8" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr9" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr10" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr11" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr12" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr13" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr14" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr15" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr16" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr17" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr18" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr19" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr20" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr21" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr22" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr23" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <Rectangle fx:id="cr24" fill="#808080" height="221.0" layoutX="913.0" layoutY="-52.0" rotate="90.0" stroke="#494b4d" strokeType="INSIDE" width="59.0" />
+      <fx:define>
+         <ArrayList fx:id="crList">
+            <fx:reference source="cr0" />
+            <fx:reference source="cr1" />
+            <fx:reference source="cr2" />
+            <fx:reference source="cr3" />
+            <fx:reference source="cr4" />
+            <fx:reference source="cr5" />
+            <fx:reference source="cr6" />
+            <fx:reference source="cr7" />
+            <fx:reference source="cr8" />
+            <fx:reference source="cr9" />
+            <fx:reference source="cr10" />
+            <fx:reference source="cr11" />
+            <fx:reference source="cr12" />
+            <fx:reference source="cr13" />
+            <fx:reference source="cr14" />
+            <fx:reference source="cr15" />
+            <fx:reference source="cr16" />
+            <fx:reference source="cr17" />
+            <fx:reference source="cr18" />
+            <fx:reference source="cr19" />
+            <fx:reference source="cr21" />
+            <fx:reference source="cr22" />
+            <fx:reference source="cr23" />
+            <fx:reference source="cr24" />
+         </ArrayList>
+      </fx:define>
+      <Text layoutX="22.0" layoutY="47.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Liczba kas" textAlignment="CENTER" wrappingWidth="142.0"/>
+      <Text layoutX="196.0" layoutY="38.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Liczba klientów supermarketu" textAlignment="CENTER" wrappingWidth="142.0" />
+      <Text layoutX="370.0" layoutY="37.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Liczba klientów przed przerwą" textAlignment="CENTER" wrappingWidth="131.0" />
+      <TextField fx:id="numberCR" layoutX="22.0" layoutY="74.0" prefHeight="26.0" prefWidth="143.0" />
+      <TextField fx:id="numberCust" layoutX="196.0" layoutY="74.0" prefHeight="26.0" prefWidth="142.0" />
+      <TextField fx:id="numberBefBreak" layoutX="370.0" layoutY="75.0" prefHeight="25.0" prefWidth="131.0" />
+      <Button fx:id="startButton" layoutX="558.0" layoutY="34.0" mnemonicParsing="false" onAction="#onStartButton" prefHeight="48.0" prefWidth="131.0" text="START" />
+   </children>
+</AnchorPane>
